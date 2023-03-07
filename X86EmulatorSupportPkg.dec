@@ -1,0 +1,16 @@
+## @file
+#  Declarations for the support package of X86EmulatorPkg
+#
+#  Copyright (c) 2023, xyberbit@gmail.com. All rights reserved.
+#
+#  SPDX-License-Identifier: BSD-2-Clause-Patent
+##
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = X86EmulatorSupportPkg
+  PACKAGE_GUID                   = fc94dfe1-5d0d-471f-a1ae-2fd1cc1ff433
+  PACKAGE_VERSION                = 0.1
+
+[Includes]
+  Include
